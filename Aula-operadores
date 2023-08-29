@@ -1,0 +1,85 @@
+// Exercício 1
+// Samuel Melo
+
+// const bool1 = true
+//const bool2 = false
+//const bool3 = !bool2
+
+// a) False b) False c) True d) booleana
+
+// Exercício 2
+
+// não contém "Number" será impresso dois números do let
+
+//
+
+// Exercício 3
+
+//let primeiroNumero = prompt("Digite um número!");
+//let segundoNumero = prompt("Digite outro número!");
+
+//const soma = Number(primeiroNumero) + Number(segundoNumero));
+
+//const.log("a junção dos números é:", soma);
+
+//
+
+// Exercício B 1)a
+
+// let idade = prompt("qual sua idade?");
+// let idadeAmigo = prompt("qual a idade do seu amigo?");
+
+// const maior = (Number(idade) <= (Number(idadeamigo));
+
+//console.log("a idade do seu amigo é maior que a sua?", maior);
+
+// console.log("os anos de diferença entre vocês é de:", Number(idade) - Number(idadeAmigo));
+
+//
+
+//Exercício 2
+
+//let número = prompt("insira um número par: ");
+
+//const resto = numero / (Number(2));
+
+//console.log(resto);
+
+// Todos serão numero inteiros / Se o usuário usar o numero ímpar, o resultado será um numero quebrado. Ex:2,5
+
+//Exercício 3
+
+//let idade = prompt(escreva sua idade em anos: ");
+
+//const meses = idade * Number(35);
+
+//console.log("você tem", meses, "meses como ano");
+
+// const dias = idade * Number(365);
+
+//console.log("voce tem", dias, "em dias vividos");
+
+//const horas = idade * Number(306600);
+
+
+//console.log("voce tem", horas, "horas vividas");
+
+//
+
+// exercício 4
+
+// let numero = prompt ("fala um numero ae");
+
+// let numeroDois = prompt("fala outro numero ae");
+
+//const maior = numero >= numeroDois
+
+//console.log("o primeiro numero é maior ao segundo?", maior);
+
+// const igual = numero*** numeroDois
+
+//console.log("o primeiro numero é igual ao segundo?", igual);
+
+//console.log("o primeiro numero é divisivel pelo segundo?", Boolean(numero % numeroDois));
+
+//console.log("o segundo numero é divisivel pelo primeiro?", Boolean(numerodois % numero));
